@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oswaldo Olea - @hesptech
+- 👋 Hi, I’m Oswaldo Olea - hesptech
 - 👀 I’m interested in programming, frontend development
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on any kind of project regarding javascript
