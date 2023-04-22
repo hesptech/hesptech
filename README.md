@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oswaldo Olea - hesptech
-- 👀 I’m interested in programming, frontend development
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on any kind of project regarding javascript
+- 👀 I’m interested in programming, mobile Apps, frontend development
+- 🌱 I’m currently working with Flutter, Angular, Vue, Shopify, Codeigniter
+- 💞️ I’m looking to collaborate on projects regarding mobile and web applications
 - 📫 How to reach me: olea.oswaldo@gmail.com
 
 <!---
