@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oswaldo Olea - hesptech
-- 👀 I’m interested in programming, mobile Apps, frontend development
-- 🌱 I’m currently working with Flutter, Angular, Vue, Shopify, Codeigniter
+- 👀 I’m interested in software development, mobile Apps, web Apps, frontend and backend development
+- 🌱 I’m currently working with Flutter, Dart, Angular, Vue, Shopify, Codeigniter, SQL
 - 💞️ I’m looking to collaborate on projects regarding mobile and web applications
 - 📫 How to reach me: olea.oswaldo@gmail.com
 
