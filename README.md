@@ -1,7 +1,12 @@
+I'm an apps developer. Flutter fan, trainer, and free-lancer.
+I used to develop with Angular, Shopify, Phpr. These days I'm focused on helping developers with Mobile Apps made with Flutter.
+
+I produce mobile apps, as well as web apps.
+
 - 👋 Hi, I’m Oswaldo Olea - hesptech
-- 👀 I’m interested in software development, mobile Apps, web Apps, frontend and backend development
-- 🌱 I’m currently working with Flutter, Dart, Angular, Vue, Shopify, Codeigniter, SQL
-- 💞️ I’m looking to collaborate on projects regarding mobile and web applications
+- 👀 Interested in software development, mobile Apps, web Apps, Frontend and Backend
+- 🌱 I’m currently working with Flutter and Dart in the Real Estate sector. 
+- 💞️ Always looking to collaborate on projects regarding mobile and web applications
 - 📫 How to reach me: olea.oswaldo@gmail.com
 
 <!---
